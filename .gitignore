@@ -4,7 +4,6 @@
 /target/classes/com/ead/msauthuser/dtos/CourseDto.class
 /target/classes/com/ead/msauthuser/enums/CourseLevel.class
 /target/classes/com/ead/msauthuser/enums/CourseStatus.class
-/src/main/java/com/ead/msauthuser/enums/CourseStatus.java
 /.idea/encodings.xml
 /HELP.md
 /.idea/jarRepositories.xml
@@ -12,7 +11,6 @@
 /ms-authuser.iml
 /target/classes/com/ead/msauthuser/MsAuthuserApplication.class
 /target/test-classes/com/ead/msauthuser/MsAuthuserApplicationTests.class
-/src/test/java/com/ead/msauthuser/MsAuthuserApplicationTests.java
 /mvnw
 /mvnw.cmd
 /target/classes/com/ead/msauthuser/configs/ResolverConfig.class
